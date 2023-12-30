@@ -7,7 +7,7 @@
 ![Priscila-Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscila-Ribeiro&show_icons=true&theme=highcontrast)
 ## Sou estudante de Ciências da Computação pela Universidade Estácio de Sá. Conclui pelo Google o curso de UX Design no Coursera. 
 Conduzi pesquisas de UX para três projetos diferentes, nos quais criei Wireframes, mockups e protótipos de baixa, média e alta fidelidade com o Figma.
-[![Meu Portfólio](https://sites.google.com/view/priscila-ribeiro/p%C3%A1gina-inicial)
+<a href = https://sites.google.com/view/priscila-ribeiro/p%C3%A1gina-inicial>Meu Portfólio 
 
 
 <div style="display: inline_block"><br/>
