@@ -7,6 +7,7 @@
 ![Priscila-Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscila-Ribeiro&show_icons=true&theme=highcontrast)
 ## Sou estudante de Ciências da Computação pela Universidade Estácio de Sá. Conclui pelo Google o curso de UX Design no Coursera. 
 Conduzi pesquisas de UX para três projetos diferentes, nos quais criei Wireframes, mockups e protótipos de baixa, média e alta fidelidade com o Figma.
+Meu Portfólio [![Portfólio](https://sites.google.com/view/priscila-ribeiro/p%C3%A1gina-inicial)
 
 
 
@@ -19,6 +20,8 @@ Conduzi pesquisas de UX para três projetos diferentes, nos quais criei Wirefram
 
 <div style="display: inline_block"><br/>
 <img align="center" alt= "FIGMA" src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white/>
+<img align="center" alt= "Adobe XD" src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6
+/>
 </div><br>
 
 Batalhando para conquistar os meus objetivos, superando os meus limites todos os dias com a busca pelo conhecimento.<br><br>O Conhecimento é transformador, a cada aprendizado um novo horizonte surge! (Douglas Mendes)
