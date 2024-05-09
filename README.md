@@ -1,11 +1,13 @@
-### Olá eu sou a Priscila Ribeiro👩
+### Olá eu sou a Priscila Ribeiro![logoPri](https://github.com/Priscila-Ribeiro/Priscila-Ribeiro/assets/138686083/a26bf048-e206-46ea-abab-87a443f6204c)
+
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee)](https://instagram.com/armandodapriscila?igshid=NGExMmI2YTkyZg==)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prisciladarcribeiro/)
 [![Benhace](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white
 )](https://www.behance.net/priscilribeiro16)
 
-![Priscila-Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscila-Ribeiro&show_icons=true&theme=highcontrast)
-## Sou estudante de Ciências da Computação pela Universidade Estácio de Sá. Conclui pelo Google o curso de UX Design no Coursera. 
+![Priscila-Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscila-Ribeiro&show_icons=true&theme=highcontrast)![Uploading logoPri.png…]()
+
+## Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Conclui pelo Google o curso de UX Design no Coursera. 
 Conduzi pesquisas de UX para três projetos diferentes, nos quais criei Wireframes, mockups e protótipos de baixa, média e alta fidelidade com o Figma.
 <a href = https://sites.google.com/view/priscila-ribeiro/p%C3%A1gina-inicial>Meu Portfólio 
 
