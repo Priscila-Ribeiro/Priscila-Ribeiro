@@ -1,4 +1,4 @@
-### Olá eu sou a Priscila Ribeiro!![logoPri-50_x_50](https://github.com/Priscila-Ribeiro/Priscila-Ribeiro/assets/138686083/6bf981ee-ccf5-4549-a43f-97b9a03b8a08)
+### ![logoPri-30_x_30](https://github.com/Priscila-Ribeiro/Priscila-Ribeiro/assets/138686083/77802078-928c-4f6b-8550-fabc9d497a9e) Olá eu sou a Priscila Ribeiro!!
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee)](https://instagram.com/armandodapriscila?igshid=NGExMmI2YTkyZg==)
@@ -6,7 +6,7 @@
 [![Benhace](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white
 )](https://www.behance.net/priscilribeiro16)
 
-![Priscila-Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscila-Ribeiro&show_icons=true&theme=highcontrast)![Uploading logoPri.png…]()
+![Priscila-Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscila-Ribeiro&show_icons=true&theme=highcontrast)
 
 ## Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Conclui pelo Google o curso de UX Design no Coursera. 
 Conduzi pesquisas de UX para três projetos diferentes, nos quais criei Wireframes, mockups e protótipos de baixa, média e alta fidelidade com o Figma.
