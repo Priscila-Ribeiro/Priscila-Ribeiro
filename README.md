@@ -1,4 +1,5 @@
-### Olá eu sou a Priscila Ribeiro![logoPri](https://github.com/Priscila-Ribeiro/Priscila-Ribeiro/assets/138686083/a26bf048-e206-46ea-abab-87a443f6204c)
+### Olá eu sou a Priscila Ribeiro!![logoPri-50_x_50](https://github.com/Priscila-Ribeiro/Priscila-Ribeiro/assets/138686083/6bf981ee-ccf5-4549-a43f-97b9a03b8a08)
+
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee)](https://instagram.com/armandodapriscila?igshid=NGExMmI2YTkyZg==)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prisciladarcribeiro/)
