@@ -16,6 +16,8 @@
  <br>
  ✔ Mockups
  <br>
+Atualmente estou focada em estudar tecnologias front-end, que faz parte do meu objetivo profissional.
+<br>
 
  <br clear="left"/>
  <div display="inline" align="right">
@@ -47,7 +49,7 @@
    
   ## ✉️ Contato/Contact me
   
- <a href="https://www.linkedin.com/in/prisciladarcribeiro/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/prisciladarcribeiro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://www.behance.net/priscilribeiro16"> <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /></a>
  <a href="https://instagram.com/armandodapriscila?igshid=NGExMmI2YTkyZg=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee" /></a>
  
@@ -61,13 +63,7 @@
 
  <br clear="left"/>
 
- </div>
 
- <img align="left" src="https://ssr-contributions-svg.vercel.app/_/Priscila-Ribeiro? 
- chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=sunset"></a>
- <img align="left" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPriscila-Ribeiro&s=40&c=ae00ff&bg=00000000&no=4&ff=linebeam&tb=Visits+&ta=" alt="visits">
-
-<br clear="left"/>
 
  <div align="center" >
    
